@@ -1,0 +1,105 @@
+body {
+    margin: 0;
+    padding-top: 10px;
+    text-align: center;
+    background: linear-gradient(red 0%, white 100%);
+}
+
+.profile {
+    width: 175px;
+    margin-bottom: 50px;
+    border-radius: 50%;
+}
+
+#welcome {
+    position: absolute;
+    overflow: hidden;
+    height: 500px;
+    color: white;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    display: table;
+    height: 100%;
+    width: 100%;
+    opacity: 0.83;
+    z-index: 9;
+
+}
+
+
+.menu {
+    list-style: none;
+    font-family: monospace;
+    position:absolute;
+    top: 10px;
+    right: 30px;
+    cursor: alias;
+    z-index: 10;
+    
+}
+
+.links {
+
+    color: #162957;
+    font-family: cursive;
+    float: left;
+    padding-right:20px;
+    padding-left:5px;
+}
+
+.links:hover {
+    background-color: white;
+}
+
+#name {
+    font-size: 35px;
+    font-family: 'Syne Mono', cursive;
+}
+.article:hover {
+    color="#293578"
+}
+html{
+    
+
+scroll-behavior: smooth
+}
+h1{
+    text-align: center;
+    font-family: TrainOne; 
+    font-size:50px
+}
+h2{
+    font-size:25;
+}
+p{
+    color:black;
+}
+img{
+    width:500px;
+    height:250px;
+}
+#DarkMark{
+    width:1000px;
+    height:500px;
+}
+h5{
+    font-size:40px;
+    font-style: italic;
+    text-shadow:2px 2px black;
+}
+#TheDarkLord{
+    width:100px;
+    height:200px;
+}
+#bing{
+    height:350px;
+    width:250px;
+}
+p{
+    color:white;
+}
+#director{
+    
+}
